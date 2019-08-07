@@ -3,8 +3,8 @@ def introduction(name)
   puts "Hi, my name is #{name}."
 end
 
-prog_name = "Ruby.rb"
+prog_name = "Ruby.rb\n"
 name = "Casey"
 def introduction_with_language(name, prog_name)
-  puts "Hi, my name is #{name} and I am learning to program in #{prog_name}\n"
+  puts "Hi, my name is #{name} and I am learning to program in #{prog_name}."
 end
